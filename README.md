@@ -25,6 +25,7 @@ All notebooks have a quite similar structure:
 2. Theoretical background and agricultural context.
 3. Code ready for being executed.
 <img src="https://drive.google.com/uc?id=1LdtI6O70R2Be5uksECvKJBTsQwT1JOE2">
+
 4. Possible extensions and modifications of the provided notebooks.
 5. Recommended Bibliography
 <img src="https://drive.google.com/uc?id=1QJ9Bv0jH6a6gpbfNrdL7_VpauRR_5tDO">
