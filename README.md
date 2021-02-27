@@ -1,4 +1,4 @@
-![Eden Platform](https://media-exp1.licdn.com/dms/image/C4E1BAQEeIg3NHYMQtg/company-background_10000/0/1603952688031?e=1614517200&v=beta&t=lxiqIWCZrls7OO12bkLrATjJw3GHo-5VFKBljM46n4E)
+![Eden Platform](https://drive.google.com/uc?id=1E2vqUXZJKzh5y_-G-LI9dbhdKtS0a6Pu)
 
 The notebooks available on <a href="edenlibrary.ai">Eden library</a> show our modest contribution to the deep learning community interested in precision agriculture problems. They synthesize some of the most common agricultural problems and solutions we have addressed in the past years. It is important to remark that the notebooks have not been finely tuned for showing the best possible results; they just present ways to use the datasets for basic tasks. If you want to know more about the use of notebooks as a development tool, please, check this link: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
 
