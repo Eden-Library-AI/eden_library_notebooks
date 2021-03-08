@@ -1,0 +1,9 @@
+./eden_data/images/val/IMG_20190909_090212.jpg
+./eden_data/images/val/IMG_20190909_090214.jpg
+./eden_data/images/val/IMG_20190909_090215.jpg
+./eden_data/images/val/IMG_20190909_090223.jpg
+./eden_data/images/val/IMG_20190909_090228.jpg
+./eden_data/images/val/IMG_20190909_090233.jpg
+./eden_data/images/val/IMG_20190909_090237.jpg
+./eden_data/images/val/IMG_20190909_090245.jpg
+./eden_data/images/val/IMG_20190909_090300.jpg
