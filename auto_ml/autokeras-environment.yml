@@ -1,4 +1,4 @@
-name: autokeras-environment
+name: eden_autokeras
 channels:
   - defaults
   - conda-forge

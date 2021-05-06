@@ -1,4 +1,4 @@
-name: autosklearn-environment
+name: eden_autosklearn
 channels:
   - defaults
   - conda-forge
