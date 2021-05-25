@@ -1,14 +1,17 @@
-name: eden_autosklearn
+name: eden_autokeras
 channels:
   - defaults
   - conda-forge
 dependencies:
   - python=3.7
-  - scikit-learn=0.24.1  
   - numpy=1.20.2
+  - scikit-learn=0.24.1  
+  - tensorflow-gpu=2.4.1
   - opencv=3.4
   - tqdm=4.59.0
   - matplotlib=3.3
+  - pandas=0.25
   - pip=21.0.1
   - pip:
-     - auto-sklearn 0.12
+      - autokeras==1.0.13
+    
