@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *eden_data*
 eden_library_datasets/
+*.h5
