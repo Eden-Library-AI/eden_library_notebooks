@@ -1,0 +1,11 @@
+name: eden_transfer_learning
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - scikit-learn=0.24.1
+  - tensorflow=2.3
+  - opencv=3.4
+  - tqdm=4.59.0
+  - matplotlib=3.3
