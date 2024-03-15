@@ -2,3 +2,5 @@
 *eden_data*
 eden_library_datasets/
 *.h5
+../.DS_Store
+.DS_Store

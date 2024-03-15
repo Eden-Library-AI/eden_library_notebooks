@@ -1,0 +1,8 @@
+name: eden_pytorch_object_detection
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.8.10
+  - pytorch=1.8.1
